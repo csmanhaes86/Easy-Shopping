@@ -5,3 +5,4 @@
 <h3>TECNOLOGIAS APLICADAS!</h3>
 <p>-Html</p>
 <p>-CSS</p>
+<img src="https://github.com/csmanhaes86/Easy-Shopping/blob/main/img/Descktop.png?raw=true" width="600px"/>
